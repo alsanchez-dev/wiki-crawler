@@ -4,6 +4,7 @@ import urllib
 import bs4
 import requests
 
+# this crawler starts to crawl random wiki url until it finds the target url "Philosophy"
 
 start_url = "https://en.wikipedia.org/wiki/Special:Random"
 target_url = "https://en.wikipedia.org/wiki/Philosophy"
