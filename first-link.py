@@ -27,7 +27,7 @@ for element in content_div.find_all("p", recursive=False):
 
 
 # 1 attemp to this but wiki/PICALM still not getting the right first link
-# as Udacity thinks ... but its fine it works
+# as they think ... but its fine it works
 
 # first_wiki_tags = soup.find(id='mw-content-text').a
 #
